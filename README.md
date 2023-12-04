@@ -1,5 +1,9 @@
 # securityandprivacy2024
 
+This is the artifact of the research paper, Benchmarking Deep Learning Fuzzers, submitted to IEEE Security and Privacy 2024.
+
+## Abstract
+
 In recent years, the practice of fuzzing Deep Learning (DL) libraries has gathered significant attention in the software engineering community. 
 Many DL fuzzers have been proposed to test DL APIs via the generation of malformed inputs. 
 Although most of these fuzzers have been demonstrated to be effective in detecting bugs and outperforming their respective prior work in different bugs, there remains a gap in benchmarking these DL fuzzers regarding their effectiveness against ground-truth real-world bugs in DL libraries. Since the existing comparisons among these DL fuzzers mainly focus on comparing bugs detected by them, they cannot provide a direct, in-depth evaluation of different DL fuzzers.
