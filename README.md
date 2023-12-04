@@ -11,4 +11,4 @@ All of our data is available [here](https://docs.google.com/spreadsheets/d/17g3i
 
 ## Replication
 
-To replication all figures and tables, please follow the instructions in [here](https://colab.research.google.com/drive/1TqiMSshyL3B86NHGMmjrwqEgTv3XbYym?usp=sharing).
+To replicate all figures and tables, please follow the instructions [here](https://colab.research.google.com/drive/1TqiMSshyL3B86NHGMmjrwqEgTv3XbYym?usp=sharing).
