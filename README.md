@@ -1,5 +1,5 @@
-# Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study - IEEE Security and Privacy 2024
-This is the artifact of the research paper, Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study, submitted to IEEE Security and Privacy 2024. 
+# Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study - ICSE 2025
+This is the artifact of the research paper, Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study, submitted International Conference on Software Enginweering 2025. 
 
 Please note that we have taken careful steps to protect the anonymity of the replication package.
 
