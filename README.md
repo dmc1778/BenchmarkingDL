@@ -1,5 +1,5 @@
-# Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study - ICSE 2025
-This is the artifact of the research paper, Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study, submitted International Conference on Software Engineering 2025. 
+# Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study
+This is the artifact of the research paper, Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study. 
 
 Please note that we have taken careful steps to protect the anonymity of the replication package.
 
