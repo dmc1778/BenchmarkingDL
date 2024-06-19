@@ -1,8 +1,6 @@
 # Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study
 This is the artifact of the research paper, Evaluating Deep Learning Fuzzers: A Comprehensive Benchmarking Study. 
 
-Please note that we have taken careful steps to protect the anonymity of the replication package.
-
 We are also actively working on the replication package to improve its replicability by the other researchers.
 
 ## About
